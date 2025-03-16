@@ -2,6 +2,8 @@
 
 A hierarchical favorites in the left sidebar.
 
+_This is a fork of the minimized version since the original author (https://github.com/sethyuan/) unfortunately deleted all of his excellent Logseq plugins._
+
 ## Feature Highlights
 
 - Tree structure for "Favorites" based on namespaces and/or page properties. You can affect the order of display by writing a `fixed` property on the page you want to adjust, e.g, `fixed:: 100`. Smaller the number, closer to the top it will be.
